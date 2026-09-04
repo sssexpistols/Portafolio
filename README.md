@@ -31,7 +31,7 @@ El caso integra inventario de activos, mesa de servicio, ERP, CRM/Helpdesk, SQL,
 - El ERP y Helpdesk son una simulación construida en Excel, no un producto comercial.
 - El modelo SQL es demostrativo y utiliza información ficticia.
 - El diseño de red es una propuesta técnica; no documenta infraestructura real.
-- El proyecto prueba conocimientos y capacidad de documentación, pero no se presenta como empleo previo.
+- El proyecto prueba conocimientos y capacidad de documentación.
 
 ## Perfil
 
